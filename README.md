@@ -11,6 +11,8 @@ Techno Geeks is the computer club of The Air Force School, Subroto Park, New Del
 
 The club started hosting its annual computer symposium ‘TAFS TechFest’ in 2014 in collaboration with the Infinity Maths Club in an attempt to facilitate intense competition among the top students of various schools of New Delhi in fields like competitive programming, gaming, A/V editing, photography and more.
 
+---
+
 ## Contact Us
 
 Shoot us an email if you are planning on using our website as a template for your own computer symposium/event.
@@ -19,5 +21,6 @@ Facebook: http://www.facebook.com/theAnujSaharan
 
 Email: mailto:tafstg@gmail.com
 
+---
 
-<i>Expect the Unexpected.</i>
+**Expect the Unexpected.**
