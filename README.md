@@ -19,7 +19,7 @@ Shoot us an email if you are planning on using our website as a template for you
 
 Facebook: http://www.facebook.com/theAnujSaharan
 
-Email: mailto:tafstg@gmail.com
+Email: tafstg@gmail.com
 
 ---
 
