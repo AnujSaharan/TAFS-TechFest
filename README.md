@@ -17,9 +17,9 @@ The club started hosting its annual computer symposium ‘TAFS TechFest’ in 20
 
 Shoot us an email if you are planning on using our website as a template for your own computer symposium/event.
 
-Facebook: http://www.facebook.com/theAnujSaharan
+**Facebook:** http://www.facebook.com/theAnujSaharan
 
-Email: tafstg@gmail.com
+**Email:** tafstg@gmail.com
 
 ---
 
