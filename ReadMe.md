@@ -22,7 +22,7 @@ We’d be honoured if you decide spend a few minutes of your time to review our 
 
 ## Contact the Club
 
-Shoot us an email if you are planning on using our website as a template for your own computer symposium/event.
+Shoot us a message if you are planning on using our website as a template for your own computer symposium/event.
 
 **Facebook:** http://www.facebook.com/theAnujSaharan
 
