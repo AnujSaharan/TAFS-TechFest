@@ -1,10 +1,10 @@
 <img src="https://github.com/AnujSaharan/The-TAFS-TechFest-Website/blob/master/Images/TechFest%20Banner.png">
 
-The following is the official website for TAFS TechFest'16 - the annual inter-school programming and IT event hosted by Techno Geeks at The Air Force School, New Delhi.
+The following is the official website for **TAFS TechFest'16** - the annual inter-school programming and IT event hosted by Techno Geeks at **The Air Force School, New Delhi.**
 
 ---
 
-## About the club
+## About the Club
 
 <img src="https://github.com/AnujSaharan/The-TAFS-TechFest-Website/blob/master/Images/Techno%20Geeks%20Logo.png" align="left" height="200" width="200">
 
@@ -42,4 +42,4 @@ Shoot us an email if you are planning on using our website as a template for you
 
 ---
 
-**Expect the Unexpected.**
+<i>Expect the Unexpected.</i>
