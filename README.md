@@ -1,6 +1,6 @@
 <img src="https://github.com/AnujSaharan/The-TAFS-TechFest-Website/blob/master/Images/TechFest%20Banner.png">
 
-The following is the official website for **TAFS TechFest'16** - the annual inter-school programming and IT event hosted by the Techno Geeks Computer Science Society at **The Air Force School, New Delhi.**
+The following is the official website for **TAFS TechFest'16** - the annual hackathon hosted by the Techno Geeks Computer Science Society at **The Air Force School, New Delhi.**
 
 ---
 
